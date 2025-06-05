@@ -6,3 +6,4 @@
 # Dentre eles o ==, que é um operador lógico que
 # questiona se um valor é igual ou outro
 
+print(10 == 10)
