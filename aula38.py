@@ -36,6 +36,7 @@ while True:
                     print('Você não possui nenhum item ainda.')
                     continue
         elif opcao_inicial == 'L':
+             
              if len(lista) >= 1:
                 for i, val in enumerate(lista):
                     print(f'Indice: {i + 1}, nome: {lista[i]}')
